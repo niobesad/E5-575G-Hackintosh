@@ -12,7 +12,7 @@ Hackintosh in Big Sur 11.6.1 <br/>
 
 # Whats not work
  -WIFI Card, (i changed mine to intel AC726 and it work just fine but wifi need heliport to work tho)<br/>
- -HDMI port, (cant do dual screen, built in display just go blank after connected, but sometimes it work after wake off from screen off)
+ -HDMI port, (cant do dual screen, built in display just go blank after connected, but sometimes it work after wake up from screen off)
 
 # ScreenShoot
 ![alt textt](https://github.com/niobesad/E5-575G-Hackintosh/blob/main/Screen%20Shot%202021-12-15%20at%2021.14.09.png?raw=true)
