@@ -11,6 +11,7 @@ Hackintosh in Big Sur 11.6.1 <br/>
  -Everything besides whats not work
 
 # Whats not work
+ -NVIDIA GF 940M, no hope for this one
  -WIFI Card, (i changed mine to intel AC726 and it work just fine but wifi need heliport to work tho)<br/>
  -HDMI port, (cant do dual screen, built in display just go blank after connected, but sometimes it work after wake up from screen off)
 
